@@ -14,16 +14,6 @@ We are not building another chatbot wrapper. We are building the layer between y
 
 ---
 
-## Our Repositories
-
-| Repo | Visibility | Purpose |
-|------|------------|---------|
-| [DevForge-Atlas](https://github.com/DevForgeAtlas-Org/DevForge-Atlas) | 🔒 Private | Core product — active development lives here |
-| [DevForge-Carta](https://github.com/DevForgeAtlas-Org/DevForge-Carta) | 🌐 Public | Distribution — published releases for end users |
-| [DevForge-Templates](https://github.com/DevForgeAtlas-Org/DevForge-Templates) | 🌐 Public | Curated project starter templates |
-
----
-
 ## What We Stand For
 
 - **Human in the loop.** AI proposes. You decide. No silent changes, ever.
