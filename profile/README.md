@@ -1,67 +1,44 @@
 # DevForgeAtlas
 
-**Universal development intelligence for Claude Code.**
+**We build AI-native developer tooling.**
 
-DevForge is a persistent, learning AI development system — four delivery mechanisms sharing one brain that compounds knowledge across every project you build.
-
----
-
-## What You'll Find Here
-
-| Repo | Status | What It Is |
-|------|--------|------------|
-| [DevForge-Atlas](https://github.com/DevForgeAtlas-Org/DevForge-Atlas) | 🔒 Private | Main monorepo — plugin, global brain, VS Code extension, standalone generator |
-| [DevForge-Carta](https://github.com/DevForgeAtlas-Org/DevForge-Carta) | 🌐 Public | Auto-published standalone files — drop `DEVFORGE_v5.md` as `CLAUDE.md`, works immediately |
-| [DevForge-Templates](https://github.com/DevForgeAtlas-Org/DevForge-Templates) | 🌐 Public | Curated project starter templates — scaffold a full stack in one `//template` command |
+DevForgeAtlas is an independent software organization focused on making AI-assisted development faster, smarter, and more reliable — for individual developers and teams building real products.
 
 ---
 
-## The Four Delivery Mechanisms
+## What We Build
 
-```
-① Standalone CLAUDE.md    Drop DEVFORGE_v5.md as CLAUDE.md — zero install, works immediately
-② Claude Code Plugin       npm install -g @devforgeatlas/devforge-atlas — full brain + 11 agents
-③ VS Code Extension        Visual sidebar, read-only brain dashboard (coming soon)
-④ Multi-platform configs   GPT, Copilot, Cursor, Windsurf — same intelligence, native format
-```
+Our flagship product is **DevForge** — a universal development intelligence system that works alongside your AI coding assistant, learns from your workflow, and compounds that knowledge across every project you touch.
 
-All four share one global brain that learns and matures across every project.
+We believe the future of software development is not just AI that writes code — it is AI that understands context, remembers what worked, and gets better the longer you use it.
 
 ---
 
-## Quick Start
+## Our Repositories
 
-**Zero install (Standalone):**
-```bash
-# Download DEVFORGE_v5.md from DevForge-Carta and drop it as CLAUDE.md in any project
-cp DEVFORGE_v5.md your-project/CLAUDE.md
-```
-
-**Full Plugin:**
-```bash
-npm install -g @devforgeatlas/devforge-atlas
-devforge-init
-```
+| Repo | Visibility | Purpose |
+|------|------------|---------|
+| [DevForge-Atlas](https://github.com/DevForgeAtlas-Org/DevForge-Atlas) | 🔒 Private | Core product — active development lives here |
+| [DevForge-Carta](https://github.com/DevForgeAtlas-Org/DevForge-Carta) | 🌐 Public | Distribution channel — published releases for end users |
+| [DevForge-Templates](https://github.com/DevForgeAtlas-Org/DevForge-Templates) | 🌐 Public | Curated project starter templates |
 
 ---
 
-## What DevForge Does
+## Our Principles
 
-- **87 commands** covering the full development lifecycle — from `//scaffold` to `//release`
-- **11 specialist agents** — code review, security, infrastructure, PM, documentation, and more
-- **83 MCP tools** — global brain reads/writes, GitHub integration, git analytics
-- **Persistent learning** — every `//reflect` session teaches the brain your patterns
-- **Offline-first** — core functionality requires zero network
+- **Offline-first.** Core functionality requires zero network dependency.
+- **Human approval gates.** AI proposes. You decide. No silent changes.
+- **Persistent learning.** The system gets smarter the more you use it.
+- **Platform agnostic.** Works across the tools developers already use.
+- **Open where it counts.** Distribution and templates are public. Development is private.
 
 ---
 
 ## For Members
 
-- **Active development** lives in `DevForge-Atlas` (private)
-- **Standalone files** are auto-published to `DevForge-Carta` on every release via CI
-- **Templates** are curated in `DevForge-Templates` and accessible via `//template` in the plugin
-- See `devforge/ROADMAP.md` in Atlas for current phase and next tasks
-- See `devforge/CONTEXT.md` for the active session state
+Active development, roadmap, architecture decisions, and session context all live in `DevForge-Atlas`. If you are joining the team, that is your starting point.
+
+Public releases are automatically published to `DevForge-Carta` on every version tag.
 
 ---
 
