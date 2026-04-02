@@ -1,5 +1,3 @@
-# DevForgeAtlas
-
 **We build AI-native developer tooling.**
 
 DevForgeAtlas is an independent software organization focused on making AI-assisted development faster, smarter, and more reliable — for individual developers and teams building real products.
