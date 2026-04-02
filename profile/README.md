@@ -34,11 +34,13 @@ We believe the future of software development is not just AI that writes code â€
 
 ---
 
-## For Members
+## Get Involved
 
-Active development, roadmap, architecture decisions, and session context all live in `DevForge-Atlas`. If you are joining the team, that is your starting point.
+DevForgeAtlas is a focused, invite-based organization. We work with developers who are serious about AI-assisted development and share our values around quality, transparency, and thoughtful tooling.
 
-Public releases are automatically published to `DevForge-Carta` on every version tag.
+**To join the team or request contributor access**, reach out directly to the maintainers via GitHub. We review requests on a rolling basis and prioritize people who are already engaged with the project.
+
+**To contribute ideas or report issues**, open a discussion or issue in any of our public repositories â€” we read everything.
 
 ---
 
