@@ -1,5 +1,7 @@
 ## Forging the Intelligence Layer for AI-Native Development
 
+> Maintained by [@cyberspartan77](https://github.com/cyberspartan77) + [@netsecops-76](https://github.com/netsecops-76)
+
 We are building the tooling that makes AI-assisted development not just faster — but smarter, more reliable, and genuinely better over time.
 
 DevForgeAtlas is an independent software organization. Our products work alongside your AI coding assistant, learn from your workflow, and compound that knowledge across every project you build. The longer you use them, the more they understand how you work.
@@ -31,7 +33,3 @@ We are a focused, invite-based organization. We work with developers who are ser
 **Interested in joining or contributing?** Reach out to the maintainers directly via GitHub. We review on a rolling basis and give priority to people already engaged with the work.
 
 **Have an idea or found an issue?** Open a discussion or issue in any of our public repositories. We read everything.
-
----
-
-*Built by [@cyberspartan77](https://github.com/cyberspartan77) + [@netsecops-76](https://github.com/netsecops-76)*
