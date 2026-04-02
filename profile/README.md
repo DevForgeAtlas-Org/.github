@@ -1,14 +1,16 @@
-**We build AI-native developer tooling.**
+## Forging the Intelligence Layer for AI-Native Development
 
-DevForgeAtlas is an independent software organization focused on making AI-assisted development faster, smarter, and more reliable — for individual developers and teams building real products.
+We are building the tooling that makes AI-assisted development not just faster — but smarter, more reliable, and genuinely better over time.
+
+DevForgeAtlas is an independent software organization. Our products work alongside your AI coding assistant, learn from your workflow, and compound that knowledge across every project you build. The longer you use them, the more they understand how you work.
 
 ---
 
 ## What We Build
 
-Our flagship product is **DevForge** — a universal development intelligence system that works alongside your AI coding assistant, learns from your workflow, and compounds that knowledge across every project you touch.
+**DevForge** is our flagship — a universal development intelligence system built for developers who use AI as a first-class part of their workflow. It brings persistent memory, specialist agents, and a structured methodology to AI-assisted development, across every platform and every project.
 
-We believe the future of software development is not just AI that writes code — it is AI that understands context, remembers what worked, and gets better the longer you use it.
+We are not building another chatbot wrapper. We are building the layer between you and your AI that makes the whole thing actually work at scale.
 
 ---
 
@@ -17,28 +19,28 @@ We believe the future of software development is not just AI that writes code �
 | Repo | Visibility | Purpose |
 |------|------------|---------|
 | [DevForge-Atlas](https://github.com/DevForgeAtlas-Org/DevForge-Atlas) | 🔒 Private | Core product — active development lives here |
-| [DevForge-Carta](https://github.com/DevForgeAtlas-Org/DevForge-Carta) | 🌐 Public | Distribution channel — published releases for end users |
+| [DevForge-Carta](https://github.com/DevForgeAtlas-Org/DevForge-Carta) | 🌐 Public | Distribution — published releases for end users |
 | [DevForge-Templates](https://github.com/DevForgeAtlas-Org/DevForge-Templates) | 🌐 Public | Curated project starter templates |
 
 ---
 
-## Our Principles
+## What We Stand For
 
-- **Offline-first.** Core functionality requires zero network dependency.
-- **Human approval gates.** AI proposes. You decide. No silent changes.
-- **Persistent learning.** The system gets smarter the more you use it.
-- **Platform agnostic.** Works across the tools developers already use.
-- **Open where it counts.** Distribution and templates are public. Development is private.
+- **Human in the loop.** AI proposes. You decide. No silent changes, ever.
+- **Persistent learning.** The system earns your trust by getting better every session.
+- **Offline-first.** Your tools should work wherever you work.
+- **Platform agnostic.** Built for the tools developers already use, not the ones we wish they used.
+- **Open where it counts.** Distribution and templates are public. Core development is private.
 
 ---
 
 ## Get Involved
 
-DevForgeAtlas is a focused, invite-based organization. We work with developers who are serious about AI-assisted development and share our values around quality, transparency, and thoughtful tooling.
+We are a focused, invite-based organization. We work with developers who are serious about the future of AI-assisted development and share our commitment to quality, transparency, and thoughtful tooling.
 
-**To join the team or request contributor access**, reach out directly to the maintainers via GitHub. We review requests on a rolling basis and prioritize people who are already engaged with the project.
+**Interested in joining or contributing?** Reach out to the maintainers directly via GitHub. We review on a rolling basis and give priority to people already engaged with the work.
 
-**To contribute ideas or report issues**, open a discussion or issue in any of our public repositories — we read everything.
+**Have an idea or found an issue?** Open a discussion or issue in any of our public repositories. We read everything.
 
 ---
 
